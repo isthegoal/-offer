@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="235d98d1-1332-4fed-80a9-e07fcd247345" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="题目141.环形链表.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/链表/题目141.环形链表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-614" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="题目15.链表中的倒数第k个结点.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表/题目15.链表中的倒数第k个结点.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="题目13.用O1时间删除链表结点.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表/题目13.用O1时间删除链表结点.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="题目16.反转链表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表/题目16.反转链表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-115" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="题目17.合并两个排序的链表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表/题目17.合并两个排序的链表.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="题目37.两个链表的第一个公共结点.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表/题目37.两个链表的第一个公共结点.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-285" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="题目26.复杂链表的复制.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表/题目26.复杂链表的复制.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="题目55.链表中环的入口结点.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表/题目55.链表中环的入口结点.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-989" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="题目56.删除链表中重复的结点.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表/题目56.删除链表中重复的结点.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-329" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/链表/题目141.环形链表.py" />
+        <option value="$PROJECT_DIR$/矩阵/题目66.矩阵中的路径.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1935" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="位运算" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="字符串" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="数学计算" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="数组" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="栈和队列" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="矩阵" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="链表" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="235d98d1-1332-4fed-80a9-e07fcd247345" name="Default" comment="" />
+      <created>1583130643402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583130643402</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24934895" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="JuliaSciView" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.28864568" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Message" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/数学计算/题目46.求1+2+3....n.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目8.旋转数组的最小数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目9.斐波那契数列.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目14.调整数组顺序使奇数在偶数之前.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目29.数组中出现次数超过一半的数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目30.最小的k个数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1254" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目31.连续子数组的最大和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目32.从1到n整数中1出现的次数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目33.把数组排成最小的数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-310" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目36.数组中的逆序对.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目38.数字在排序数组中出现的次数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-761" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目40.数组中出现一次的数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="68" column="10" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目41.合为s的两个数字VS和为s的连续正数序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目64.获取一个数据流中的中位数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1692" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目65.滑动窗口的最大值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目128.最长连续序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-310" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/题目136.只出现一次的数字.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈和队列/题目7.用两个栈实现一个队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈和队列/题目21.包含min函数的栈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈和队列/题目22.栈的压入弹出序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目6.重建二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目18.树的子结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目19.二叉树的镜像.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-457" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目23.从上到下打印 二叉树.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目24.二叉排序树的后续遍历序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目25.二叉树中和为某一值的路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目27.二叉搜索树转双向链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目39.二叉树的深度.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目50.树中两个结点的最低公共祖先.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-557" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目57.二叉树的下一个结点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目58.对称的二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-723" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目59.按之字形打印二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目60.序列化二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627">
+          <caret selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目63.二叉搜索树的第k个结点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目70.二叉树的宽度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/题目124.求二叉树的最大路径和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/矩阵/题目20.顺时针打印矩阵.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/矩阵/题目1.二维数组的查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/矩阵/题目67.机器人的运动路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/矩阵/题目66.矩阵中的路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1027" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目5.从尾到头打印单链表.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目15.链表中的倒数第k个结点.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目13.用O1时间删除链表结点.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目16.反转链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目17.合并两个排序的链表.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目37.两个链表的第一个公共结点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目26.复杂链表的复制.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目55.链表中环的入口结点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-989" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目56.删除链表中重复的结点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-329" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目142.环形链表 II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/题目141.环形链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-614" />
+      </provider>
+    </entry>
+  </component>
+</project>
